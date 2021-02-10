@@ -24,8 +24,8 @@ enableEmoji = true
     description = "Lost and mostly incoherent..."
     keywords = "blog,developer,devops,cloud"
     info = "Software / DevOps / Cloud Engineer"
-    # avatarURL = "images/avatar.jpg"
-    gravatar = "DetroitTriumph@gmail.com"
+    avatarURL = "images/avatar.jpg"
+#    gravatar = "DetroitTriumph@gmail.com"
     footerContent = ""
 
     dateFormat = "January 2, 2006"
